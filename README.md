@@ -3,3 +3,14 @@
 <p></p><h3>Design a simple calculator with basic arithmetic operations.
 Prompt the user to input two numbers and an operation choice.
 Perform the calculation and display the result.</h3></p>
+
+
+<p><h3>Basic Arithmetic Operations: Implementing a calculator helps you understand and apply basic arithmetic operations (addition, subtraction, multiplication, division).
+Control Structures: You'll use control structures like loops and conditional statements to handle user input and perform calculations.</h3></p>
+
+<p><h3>
+Key Features
+User Input: The calculator should accept user input for numbers and the desired operation.
+Operation Selection: Users should be able to select the operation they want to perform.
+Result Display: After performing the calculation, the result should be displayed to the user.
+Continuous Use: You might want to allow users to perform multiple calculations without restarting the program.</h3></p>
